@@ -4,7 +4,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "qinezh-office",
-      "build_source_folder": ".",
+      "build_source_folder": "skype",
       "build_output_subfolder": "qinezh-office",
       "locale": "en-us",
       "monikers": [],
@@ -46,7 +46,7 @@
     {
       "path_to_root": "_dependentPackages/azurecli.plugins",
       "id": "opbuild.templates.azurecli",
-      "version": "latest",
+      "version": "latest-prerelease",
       "nuget_feed": "https://www.myget.org/F/op-dev/api/v2"
     },
     {
